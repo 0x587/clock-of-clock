@@ -2,8 +2,8 @@
   "name": "vue-app",
   "version": "0.1.0",
   "private": true,
-  "publicPath": "/0x587/clock-of-clock",
-  "assetsDir":"0x587/clock-of-clock",
+  "publicPath": "/clock-of-clock",
+  "assetsDir":"clock-of-clock",
   "outputDir":"dist",
   "scripts": {
     "serve": "vue-cli-service serve",
